@@ -1,0 +1,6 @@
+cloudera:
+  cm_host: cloudera-manager.example.com
+  cm_port: 7180
+  cm_user: admin
+  cm_pass: changeme
+  cluster_name: "Cluster 1"

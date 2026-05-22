@@ -1,0 +1,15 @@
+*.env
+.env
+config/secrets.*
+config/credentials.*
+*.secret
+*.key
+*.pem
+logs/
+*.log
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store
+tmp/
